@@ -1,0 +1,48 @@
+
+body{
+  font-size: 18px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+  color: rgb(0, 255, 0);
+}
+
+header, footer{
+  background-color: aqua;
+}
+
+
+
+#my-image {
+  box-shadow: 0 0 2px 1px black;
+}
+
+.hobbies {
+  list-style-type: square;
+
+}
+
+.hobbies
+li:nth-child(odd) {
+  background-color: deeppink;
+}
+
+nav>ul {
+  list-style-type: none;
+}
+
+li>a {
+  text-decoration: none;
+  background-color: blueviolet;
+  border: springgreen;
+  padding: 2px;
+  border: 1px solid rgb(18, 14, 241);
+}
+ li>a:hover {
+  background-color: rgb(238, 255, 0);
+  text-decoration: underline;
+
+ }
+
+
