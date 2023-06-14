@@ -23,6 +23,9 @@ header, footer{
 
 }
 
+
+
+
 .hobbies
 li:nth-child(odd) {
   background-color: deeppink;
@@ -30,6 +33,7 @@ li:nth-child(odd) {
 
 nav>ul {
   list-style-type: none;
+  
 }
 
 li>a {
