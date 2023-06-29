@@ -1,0 +1,100 @@
+body {
+  background-color: aqua;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 1.4;
+  margin-top: auto;
+}
+
+.wrapper {
+  background-color: aquamarine;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.starfish {
+  
+  float: inline-end;
+}
+
+.container {
+  position: relative;
+}
+
+h1 {
+  position: absolute;
+  text-align: center;
+  top: 45%;
+  width: 100%;
+  color: white;
+}
+
+.display ul {
+  padding-left: 0;
+  text-align: center;
+}
+
+.display li {
+  display: inline-block;
+  width: 32%;
+}
+
+.display li a {
+  padding: 20px;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+p {
+  padding: 10px;
+}
+
+#photo-2 {
+  float: left;
+  width: 200px;
+  padding: 10px;
+}
+
+
+
+.bm-demo {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 50px;
+
+}
+
+#message {
+  width: 950px;
+  height: 100px;
+}
+
+#youremail {
+  width: 950px;
+}
+
+#yourname {
+  width: 950px;
+}
+
+
+section {
+  padding: 10px 0 10px 20px;
+}
+
+nav :nth-child(2) {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+h2 {
+  padding-left: 10px;
+}
+
+h3 {
+  padding: 2px;
+}
+
+section {
+  padding: 10px;
+}
