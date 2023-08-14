@@ -342,10 +342,10 @@ footer {
     .services-grid {
         display: grid;
         grid-template-columns: Repeat(6, 1fr);
-        grid-template-rows: repeat(2, 1fr);
+        grid-template-rows: 1fr;
         padding-left: 4rem;
-        padding-right: 4rem
-        ;     
+        padding-right: 4rem;
+        text-align: center;     
       }
 
       .dt {
