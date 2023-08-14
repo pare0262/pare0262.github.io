@@ -345,7 +345,12 @@ footer {
         grid-template-rows: 1fr;
         padding-left: 4rem;
         padding-right: 4rem;
-        text-align: center;     
+            
+      }
+
+     #bt {
+        width: 90%;
+        text-align: center;
       }
 
       .dt {
